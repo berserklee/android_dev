@@ -1,0 +1,18 @@
+/**
+ * FreeSense.com.cn
+ * LoginActivity.java
+ * 
+ * 2015/04/28
+ * Create By Li Tingfang
+ */
+package com.freesense.tourguidesassist;
+
+import Activity;
+
+/**
+ * @author LiTingfang
+ *
+ */
+public class LoginActivity extends Activity {
+
+}

@@ -1,0 +1,24 @@
+/**
+ * FreeSense.com.cn
+ * LoginActivity.java
+ * 
+ * 2015/04/28
+ * Create By LiTingfang
+ */
+package com.freesense.tourguidesassist;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+/**
+ * @author LiTingfang
+ *
+ */
+public class LoginActivity extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.login_activity_layout);
+	}
+}

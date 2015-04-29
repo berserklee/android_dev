@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<TextView  android:id="@+id/company_notify"  
+	    android:text="@string/company_notify_temp"  
+	    android:layout_width="fill_parent"  
+	    android:layout_height="wrap_content"  
+	    android:layout_marginLeft="15dp"  
+	    android:textColor="#888"  
+	    android:textColorLink="#FF0066CC"  
+	/>  
+	<TextView  android:id="@+id/journey_list"  
+	    android:text="@string/journey_list_temp"  
+	    android:layout_width="fill_parent"  
+	    android:layout_height="wrap_content"  
+	    android:layout_marginLeft="15dp"  
+	    android:textColor="#888"  
+	    android:textColorLink="#FF0066CC"  
+	/>  
+    <Button  
+        android:id="@+id/journey_mng_button"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+        android:layout_below="@id/journey_list"  
+        android:text="@string/main_btn_journey_mng"  />
+</LinearLayout>

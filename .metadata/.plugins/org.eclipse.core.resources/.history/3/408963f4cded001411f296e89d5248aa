@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package com.freesense.tourguidesassist;
+
+import Activity;
+
+/**
+ * @author LiTingfang
+ *
+ */
+public class MainActivity extends Activity {
+
+}

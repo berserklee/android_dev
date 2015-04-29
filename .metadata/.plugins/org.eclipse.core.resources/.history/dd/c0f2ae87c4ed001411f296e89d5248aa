@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">导游助手</string>
+    <string name="login_label_username">账号</string>
+</resources>

@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.freesense.tourguidesassist;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+/**
+ * @author LiTingfang
+ *
+ */
+public class MainActivity extends Activity {
+
+}
